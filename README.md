@@ -1,24 +1,71 @@
-# README
+# Hello Rails Backend
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> Hello Rails Backend is a simple rails app. In this app, I created a React front-end with a Rails back-end and connected them to display a random message.
 
-Things you may want to cover:
 
-* Ruby version
+# Link to the front end
 
-* System dependencies
+- [Hello React front end]()
 
-* Configuration
 
-* Database creation
+## Built With
 
-* Database initialization
+- Ruby
+- Rails
+- PostgreSQL
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+## Getting Started
 
-* Deployment instructions
+To get a local copy up and running follow these simple example steps.
 
-* ...
+### Prerequisites
+
+- A source-code editor (preferably Visual Studio Code)
+
+### Install
+
+- Ruby
+- Rails
+- PostgreSQL
+
+### Using it Locally
+
+- Clone the project
+
+git clone https://github.com/Daphineatim/hello-rails-back-end.git
+
+cd hello-rails-backend
+
+- To Start the programs
+
+open terminal
+run the command $irb (interactive ruby shell)
+run the program functions
+
+
+## Authors
+
+👤 **Daphine Atim**
+
+- GitHub: @Daphineatim
+- Twitter: @dhaphyn
+- LinkedIn: DaphineAtim
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Microverse 
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
