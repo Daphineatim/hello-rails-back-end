@@ -5,7 +5,7 @@
 
 # Link to the front end
 
-- [Hello React front end](https://github.com/Daphineatim/hello-react-front-end.git)
+- [Hello React front end](https://github.com/Daphineatim/hello-react-front-end/pull/1)
 
 
 ## Built With
